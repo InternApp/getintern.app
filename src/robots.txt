@@ -1,0 +1,10 @@
+# This is a robots.txt file for the CoffeeDev website.
+# Dear robot, please have a coffee and enjoy your stay!
+
+
+User-agent: *
+Disallow: /404
+Disallow: /private/
+Disallow: /admin/
+
+Sitemap: https://getintern.app/Sitemap.xml
